@@ -25,8 +25,8 @@ Hi there! I'm a experienced Python developer with over 5 years of experience bui
 
 I am available for hire on the following platforms:
 
-- Fiverr: [https://www.fiverr.com/ankit121](Link to Fiverr)
-- Freelancer: [https://www.freelancer.com/u/mankit121](Link to Freelancer)
+- Fiverr: [Link to fiverr](https://www.fiverr.com/ankit121)
+- Freelancer: [Link to freelancer](https://www.freelancer.com/u/mankit121)
 
 ## Contact
 
