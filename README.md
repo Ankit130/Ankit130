@@ -1,16 +1,36 @@
-### Hi there 👋
+# Python Developer
 
-<!--
-**Ankit130/Ankit130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a experienced Python developer with over 5 years of experience building high-quality, scalable applications. My expertise includes:
 
-Here are some ideas to get you started:
+- Python development
+- Web development with Django and Flask
+- Data analysis and visualization with libraries like Pandas and Matplotlib
+- Database design and implementation with SQL and NoSQL databases
+- Working with APIs and integrating third-party services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+- Python
+- Django
+- Flask
+- Pandas
+- Matplotlib
+- SQL
+- NoSQL
+- APIs
+- Git
+
+## Hire Me
+
+I am available for hire on the following platforms:
+
+- Fiverr: [https://www.fiverr.com/ankit121](Link to Fiverr)
+- Freelancer: [https://www.freelancer.com/u/mankit121](Link to Freelancer)
+
+## Contact
+
+Feel free to reach out to me via email if you have any questions or if you're interested in working together!
+
+Email: ankitproject01@gmail.com
+
