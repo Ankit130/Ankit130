@@ -21,16 +21,8 @@ Hi there! I'm a experienced Python developer with over 5 years of experience bui
 - APIs
 - Git
 
-## Hire Me
-
-I am available for hire on the following platforms:
-
-- Fiverr: [Link to fiverr](https://www.fiverr.com/ankit121)
-- Freelancer: [Link to freelancer](https://www.freelancer.com/u/mankit121)
-
 ## Contact
 
-Feel free to reach out to me via email if you have any questions or if you're interested in working together!
-
+Feel free to reach out to me via email if you have any questions
 Email: ankitproject01@gmail.com
 
